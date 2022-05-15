@@ -1,0 +1,2 @@
+# SolutionCollection
+SolutionCollectionInitialCommit
